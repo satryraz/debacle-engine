@@ -25,3 +25,6 @@ chmod +x build.sh
 
 ### remerciements
 au club de maths d'Orsay, au [chess programming wiki](https://www.chessprogramming.org/Main_Page) et à [sebastian lague](https://www.youtube.com/c/SebastianLague)
+
+### license
+GNU GPL v3 (voir le fichier LICENSE)
